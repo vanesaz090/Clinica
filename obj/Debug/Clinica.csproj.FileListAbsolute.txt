@@ -1,0 +1,17 @@
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.FormFichaVisita.resources
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Entidades.dll
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Negocio.dll
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Entidades.pdb
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\bin\Debug\Negocio.pdb
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.CopyComplete
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.FormInicial.resources
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.FormHabCons.resources
+C:\Users\diego.zapata\source\repos\Clinica\Clinica\obj\Debug\Clinica.FormMedicosServicios.resources
